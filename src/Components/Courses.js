@@ -27,7 +27,7 @@ const Courses = () => {
   return (
     <div className="courses-page">
       <header className="navbar">
-        <img src="logo.png" alt="ScholarSpace Logo" className="navbar-logo" />
+        <img src="/logo.png" alt="ScholarSpace Logo" className="navbar-logo" />
         <input type="text" className="search-bar" placeholder="Search" />
         <nav className="nav-links">
           <a href="/jobs">Jobs</a>
