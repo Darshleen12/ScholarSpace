@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 
+import './AddCourse.css';
+
 
 const AddCourse = () => {
   const [courseName, setCourseName] = useState('');

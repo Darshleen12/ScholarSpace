@@ -4,7 +4,7 @@ import './LandingPage.css';
 
 const LandingPage = () => {
   return (
-    <div className="container">
+    <div className="land-container">
       <header className="header">
         <img src="/logo.png" alt="ScholarSpace Logo" className="logo" />
       </header>
